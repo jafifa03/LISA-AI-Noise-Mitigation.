@@ -1,0 +1,18 @@
+# Core Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# Deep Learning & RL
+torch>=2.0.0
+torchvision
+tensorboard
+gymnasium>=0.28.1
+stable-baselines3>=2.0.0
+shimmy>=1.1.0
+
+# Utilities
+tqdm
+json5
+pyyaml
